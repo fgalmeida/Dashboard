@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-[Dashboard](https://podcastrnext-nlw-5.vercel.app) é um projeto pessoal feito para estudo sobre as tecnologias envolvidas!
+[Dashboard](https://dashboard-fgalmeida.vercel.app/dashboard) é um projeto pessoal feito para estudo sobre as tecnologias envolvidas!
 Projeto totalmente open source e pronto para utilização de APIs
 
 ## 🚀 Como executar
