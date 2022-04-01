@@ -5,6 +5,10 @@
   <a href="#-licença">Licença</a>
 </p>
 
+## 🟡 Alerta
+
+Responsividade inacabada e com problemas `feita apenas para ter`
+
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
