@@ -200,6 +200,8 @@ export const MobileMenuButton = styled.button`
 
   border-radius: 5px;
   transition: 0.3s all;
+  border: none;
+  outline: none;
 
   :hover {
     background: #473fcf;

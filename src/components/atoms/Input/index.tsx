@@ -102,6 +102,8 @@ const Container = styled.div<ContainerProps>`
 
   margin-top: 5px;
 
+  font-family: 'Poppins';
+
   .errorMsg {
     position: absolute;
     display: flex;

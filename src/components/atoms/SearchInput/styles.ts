@@ -24,6 +24,11 @@ export const Container = styled.div`
     outline: none;
     border: none;
 
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+
     border-radius: 8px;
 
     background: transparent;

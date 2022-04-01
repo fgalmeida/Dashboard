@@ -80,6 +80,8 @@ export const GhostButton = styled.button`
 
   transition: 0.3s all;
 
+  background: transparent;
+
   :hover {
     background: rgba(0, 0, 0, 0.1);
   }
